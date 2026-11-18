@@ -1,0 +1,2674 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 7
+/Kids [ 4 0 R 12 0 R 16 0 R 20 0 R 24 0 R 28 0 R 32 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3209
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.847059 .882353 .909804 RG
+n 51.02362 39.68504 m 544.252 39.68504 l S
+BT /F1 7 Tf 8.4 TL ET
+.364706 .419608 .458824 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (MS Office Cheat Sheet \177 Quick reference) Tj T* ET
+BT 1 0 0 1 522.069 25.51181 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 722.5039 cm
+Q
+q
+1 0 0 1 57.02362 688.5039 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 6 Tm /F2 28 Tf 34 TL 101.3842 0 Td (MICROSOFT OFFICE) Tj T* -101.3842 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 646.5039 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 6 Tm /F2 28 Tf 34 TL 141.8302 0 Td (CHEAT SHEET) Tj T* -141.8302 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 627.1654 cm
+Q
+q
+1 0 0 1 57.02362 611.1654 cm
+q
+.364706 .419608 .458824 rg
+BT 1 0 0 1 0 5 Tm /F1 11 Tf 16 TL 18.39217 0 Td (A practical quick reference for Word, Excel, PowerPoint, Outlook and common Office tasks.) Tj T* -18.39217 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 568.6457 cm
+Q
+q
+1 0 0 1 99.2126 408.6457 cm
+q
+.917647 .952941 .972549 rg
+n 0 160 99.2126 -160 re f*
+1 1 1 rg
+n 99.2126 160 297.6378 -160 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 138 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (WORD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.2126 138.25 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 3 Tm /F1 8.5 Tf 11.5 TL (Create, format and review documents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 106 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (EXCEL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.2126 106.25 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 3 Tm /F1 8.5 Tf 11.5 TL (Work with data, formulas, tables and charts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 74 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (POWERPOINT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.2126 74.25 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 3 Tm /F1 8.5 Tf 11.5 TL (Build clear, polished presentations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 42 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (OUTLOOK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.2126 42.25 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 3 Tm /F1 8.5 Tf 11.5 TL (Manage email, calendars and tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 10 10 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (GENERAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.2126 10.25 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 3 Tm /F1 8.5 Tf 11.5 TL (Keyboard shortcuts and productivity tips) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .882353 .909804 RG
+.6 w
+n 0 160 m 396.8504 160 l S
+n 0 0 m 396.8504 0 l S
+n 0 0 m 0 160 l S
+n 396.8504 0 m 396.8504 160 l S
+.35 w
+n 0 128 m 396.8504 128 l S
+n 0 96 m 396.8504 96 l S
+n 0 64 m 396.8504 64 l S
+n 0 32 m 396.8504 32 l S
+n 99.2126 0 m 99.2126 160 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 357.622 cm
+Q
+q
+1 0 0 1 57.02362 325.622 cm
+q
+.364706 .419608 .458824 rg
+BT 1 0 0 1 0 21 Tm /F1 11 Tf 16 TL 5.857673 0 Td (Shortcuts are based mainly on Windows desktop versions. Some commands and menus vary by) Tj T* 125.6255 0 Td (Office version, platform and keyboard layout.) Tj T* -131.4832 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+BT
+/F2-0 50 Tf
+60 TL
+ET
+0.65 0.65 0.65 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+1 0 0 1 -136.125 0 Tm
+(Python Life) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 14 0 R
+/F2 8 0 R
+/F2-0 15 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 6564
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.847059 .882353 .909804 RG
+n 51.02362 39.68504 m 544.252 39.68504 l S
+BT /F1 7 Tf 8.4 TL ET
+.364706 .419608 .458824 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (MS Office Cheat Sheet \177 Quick reference) Tj T* ET
+BT 1 0 0 1 522.069 25.51181 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (1. Essential Office shortcuts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.0354 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 3 Tm /F1 8.5 Tf 11.5 TL (These shortcuts work in most Windows desktop Office apps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 452.5354 cm
+q
+1 1 1 rg
+n 0 273 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 253.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 234 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 214.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 195 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 175.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 156 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 136.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 117 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 97.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 78 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 58.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 39 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 19.5 490.3937 -19.5 re f*
+.090196 .196078 .301961 rg
+n 0 292.5 490.3937 -19.5 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 6 278 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Shortcut) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 278 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Action) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 258.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 258.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Create a new file or document) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 239 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + O) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 239 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Open a file) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 219.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + S) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 219.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Save) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 200 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (F12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 200 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Open Save As \(in many Office apps\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + P) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Print) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Z / Ctrl + Y) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Undo / Redo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + X / Ctrl + C / Ctrl + V) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Cut / Copy / Paste) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Select all) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 102.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + F / Ctrl + H) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 102.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Find / Replace) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + B / Ctrl + I / Ctrl + U) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Bold / Italic / Underline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + K) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Insert or edit a hyperlink) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Home / Ctrl + End) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Go to beginning / end of document or content) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Alt + Tab) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Switch between open apps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Windows + Shift + S) Tj T* ET
+Q
+Q
+q
+1 0 0 1 142.063 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Take a selected-area screenshot) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .882353 .909804 RG
+.35 w
+n 0 292.5 m 490.3937 292.5 l S
+n 0 0 m 490.3937 0 l S
+n 0 0 m 0 292.5 l S
+n 490.3937 0 m 490.3937 292.5 l S
+n 0 273 m 490.3937 273 l S
+n 0 253.5 m 490.3937 253.5 l S
+n 0 234 m 490.3937 234 l S
+n 0 214.5 m 490.3937 214.5 l S
+n 0 195 m 490.3937 195 l S
+n 0 175.5 m 490.3937 175.5 l S
+n 0 156 m 490.3937 156 l S
+n 0 136.5 m 490.3937 136.5 l S
+n 0 117 m 490.3937 117 l S
+n 0 97.5 m 490.3937 97.5 l S
+n 0 78 m 490.3937 78 l S
+n 0 58.5 m 490.3937 58.5 l S
+n 0 39 m 490.3937 39 l S
+n 0 19.5 m 490.3937 19.5 l S
+n 136.063 0 m 136.063 292.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 438.3622 cm
+Q
+q
+1 0 0 1 57.02362 417.3622 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Useful habits) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 365.3622 cm
+q
+BT 1 0 0 1 0 37.5 Tm 11.5 TL /F1 8.5 Tf .141176 .192157 .231373 rg (\177 Save often and use clear file names with dates or version numbers.) Tj  T* (\177 Use built-in templates and themes for consistent formatting.) Tj  T* (\177 Use keyboard shortcuts for frequent tasks, but check the Ribbon when unsure.) Tj  T* (\177 Store important files in a backed-up location such as OneDrive or your organization\222s approved storage.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+BT
+/F2-0 50 Tf
+60 TL
+ET
+0.65 0.65 0.65 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+1 0 0 1 -136.125 0 Tm
+(Python Life) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 18 0 R
+/F2 8 0 R
+/F2-0 19 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 6205
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.847059 .882353 .909804 RG
+n 51.02362 39.68504 m 544.252 39.68504 l S
+BT /F1 7 Tf 8.4 TL ET
+.364706 .419608 .458824 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (MS Office Cheat Sheet \177 Quick reference) Tj T* ET
+BT 1 0 0 1 522.069 25.51181 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (2. Microsoft Word) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.0354 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 3 Tm /F1 8.5 Tf 11.5 TL (Document creation, formatting and review) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 727.0354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Text and paragraph formatting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 527.0354 cm
+q
+1 1 1 rg
+n 0 175.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 156 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 136.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 117 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 97.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 78 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 58.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 39 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 19.5 490.3937 -19.5 re f*
+.090196 .196078 .301961 rg
+n 0 195 490.3937 -19.5 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 6 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Shortcut / Feature) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (What it does) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + B / I / U) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Bold / Italic / Underline selected text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + L / E / R / J) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Align left / center / right / justify) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + 1 / 2 / 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Single / double / 1.5 line spacing \(common defaults\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 102.5 cm
+q
+BT 1 0 0 1 0 1.9 Tm 9.5 TL /F1 7.6 Tf .141176 .192157 .231373 rg (Ctrl + Shift + > / <) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 102.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Increase / decrease font size) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Shift + N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Apply Normal style) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Alt + 1 / 2 / 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Apply Heading 1 / 2 / 3 styles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Enter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Insert a page break) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Shift + Enter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Insert a line break without a new paragraph) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Backspace) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Delete the previous word) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .882353 .909804 RG
+.35 w
+n 0 195 m 490.3937 195 l S
+n 0 0 m 490.3937 0 l S
+n 0 0 m 0 195 l S
+n 490.3937 0 m 490.3937 195 l S
+n 0 175.5 m 490.3937 175.5 l S
+n 0 156 m 490.3937 156 l S
+n 0 136.5 m 490.3937 136.5 l S
+n 0 117 m 490.3937 117 l S
+n 0 97.5 m 490.3937 97.5 l S
+n 0 78 m 490.3937 78 l S
+n 0 58.5 m 490.3937 58.5 l S
+n 0 39 m 490.3937 39 l S
+n 0 19.5 m 490.3937 19.5 l S
+n 164.4094 0 m 164.4094 195 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 506.0354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Useful Word features) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 442.5354 cm
+q
+BT 1 0 0 1 0 49 Tm 11.5 TL /F2 8.5 Tf .141176 .192157 .231373 rg (Styles:) Tj /F1 8.5 Tf ( Apply Heading styles to create a consistent document and generate a table of contents.) Tj  T* /F2 8.5 Tf (Layout:) Tj /F1 8.5 Tf ( Use Layout ) Tj /F3 8.5 Tf 11.5 TL (\256) Tj /F1 8.5 Tf 11.5 TL ( Margins, Orientation, Size and Columns to control the page.) Tj  T* /F2 8.5 Tf (Insert:) Tj /F1 8.5 Tf ( Add tables, pictures, page numbers, headers, footers and symbols.) Tj  T* /F2 8.5 Tf (Review:) Tj /F1 8.5 Tf ( Use Track Changes, Comments, Spelling & Grammar and Compare to review edits.) Tj  T* /F2 8.5 Tf (Find:) Tj /F1 8.5 Tf ( Use Navigation \(Ctrl + F\) to locate words, headings and pages.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 421.5354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Quick document checklist) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 358.0354 cm
+q
+BT 1 0 0 1 0 49 Tm 11.5 TL /F1 8.5 Tf .141176 .192157 .231373 rg /F4 8.5 Tf 11.5 TL (n) Tj /F1 8.5 Tf 11.5 TL ( Use heading styles rather than manually enlarging every heading.) Tj  T* /F4 8.5 Tf 11.5 TL (n) Tj /F1 8.5 Tf 11.5 TL ( Check page breaks, margins and page numbering.) Tj  T* /F4 8.5 Tf 11.5 TL (n) Tj /F1 8.5 Tf 11.5 TL ( Run spelling and grammar checks.) Tj  T* /F4 8.5 Tf 11.5 TL (n) Tj /F1 8.5 Tf 11.5 TL ( Confirm images and tables fit within the page.) Tj  T* /F4 8.5 Tf 11.5 TL (n) Tj /F1 8.5 Tf 11.5 TL ( Save a final copy as PDF when sharing a read-only version.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+BT
+/F2-0 50 Tf
+60 TL
+ET
+0.65 0.65 0.65 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+1 0 0 1 -136.125 0 Tm
+(Python Life) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 22 0 R
+/F2 8 0 R
+/F2-0 23 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 11645
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.847059 .882353 .909804 RG
+n 51.02362 39.68504 m 544.252 39.68504 l S
+BT /F1 7 Tf 8.4 TL ET
+.364706 .419608 .458824 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (MS Office Cheat Sheet \177 Quick reference) Tj T* ET
+BT 1 0 0 1 522.069 25.51181 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (3. Microsoft Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.0354 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 3 Tm /F1 8.5 Tf 11.5 TL (Data entry, calculations, analysis and charts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 727.0354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (High-value Excel shortcuts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 488.0354 cm
+q
+1 1 1 rg
+n 0 214.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 195 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 175.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 156 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 136.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 117 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 97.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 78 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 58.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 39 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 19.5 490.3937 -19.5 re f*
+.090196 .196078 .301961 rg
+n 0 234 490.3937 -19.5 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 6 219.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Shortcut) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 219.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Action) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 200 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (F2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 200 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Edit the active cell) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Alt + Enter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Start a new line inside a cell) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Open Format Cells) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Shift + L) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Turn filters on or off) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + T) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Create a table from selected data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 102.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + ;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 102.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Insert the current date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Shift + ;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Insert the current time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Alt + =) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (AutoSum selected range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Arrow key) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Move to the edge of a data region) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Space / Shift + Space) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Select column / row) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (F4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Repeat last action or toggle absolute references while editing a formula) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .882353 .909804 RG
+.35 w
+n 0 234 m 490.3937 234 l S
+n 0 0 m 490.3937 0 l S
+n 0 0 m 0 234 l S
+n 490.3937 0 m 490.3937 234 l S
+n 0 214.5 m 490.3937 214.5 l S
+n 0 195 m 490.3937 195 l S
+n 0 175.5 m 490.3937 175.5 l S
+n 0 156 m 490.3937 156 l S
+n 0 136.5 m 490.3937 136.5 l S
+n 0 117 m 490.3937 117 l S
+n 0 97.5 m 490.3937 97.5 l S
+n 0 78 m 490.3937 78 l S
+n 0 58.5 m 490.3937 58.5 l S
+n 0 39 m 490.3937 39 l S
+n 0 19.5 m 490.3937 19.5 l S
+n 164.4094 0 m 164.4094 234 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 467.0354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Common formulas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 169.5354 cm
+q
+1 1 1 rg
+n 0 273 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 253.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 234 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 214.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 195 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 175.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 156 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 136.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 117 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 97.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 78 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 58.5 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 39 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 19.5 490.3937 -19.5 re f*
+.090196 .196078 .301961 rg
+n 0 292.5 490.3937 -19.5 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 6 278 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 278 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Purpose / example) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 258.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=SUM\(B2:B10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 258.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Adds values in a range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 239 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=AVERAGE\(B2:B10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 239 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Returns the arithmetic average) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 219.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=MIN\(B2:B10\) / =MAX\(B2:B10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 219.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Smallest / largest value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 200 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=COUNT\(B2:B10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 200 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Counts cells containing numbers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=COUNTA\(A2:A10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Counts non-empty cells) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=IF\(C2>=50,"Pass","Fail"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Returns one result if true and another if false) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=SUMIF\(A2:A10,"East",B2:B10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Adds values matching one condition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=COUNTIF\(A2:A10,"Complete"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Counts cells matching a condition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 102.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=XLOOKUP\(E2,A2:A10,B2:B10,"Not found"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 102.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Looks up a value and returns a matching result \(supported versions\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=IFERROR\(A2/B2,0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Returns 0 if the calculation produces an error) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=TODAY\(\) / =NOW\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Current date / current date and time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=LEFT\(A2,3\) / =RIGHT\(A2,4\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Extracts characters from left / right) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=TRIM\(A2\) / =LEN\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Removes extra spaces / counts characters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (=CONCAT\(A2," ",B2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 195.9213 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Joins text values) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .882353 .909804 RG
+.35 w
+n 0 292.5 m 490.3937 292.5 l S
+n 0 0 m 490.3937 0 l S
+n 0 0 m 0 292.5 l S
+n 490.3937 0 m 490.3937 292.5 l S
+n 0 273 m 490.3937 273 l S
+n 0 253.5 m 490.3937 253.5 l S
+n 0 234 m 490.3937 234 l S
+n 0 214.5 m 490.3937 214.5 l S
+n 0 195 m 490.3937 195 l S
+n 0 175.5 m 490.3937 175.5 l S
+n 0 156 m 490.3937 156 l S
+n 0 136.5 m 490.3937 136.5 l S
+n 0 117 m 490.3937 117 l S
+n 0 97.5 m 490.3937 97.5 l S
+n 0 78 m 490.3937 78 l S
+n 0 58.5 m 490.3937 58.5 l S
+n 0 39 m 490.3937 39 l S
+n 0 19.5 m 490.3937 19.5 l S
+n 189.9213 0 m 189.9213 292.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 148.5354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Excel essentials) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 73.53543 cm
+q
+BT 1 0 0 1 0 60.5 Tm 11.5 TL /F1 8.5 Tf .141176 .192157 .231373 rg (\177 Start formulas with ) Tj /F2 8.5 Tf (=) Tj /F1 8.5 Tf (. Use ) Tj /F2 8.5 Tf ($A$1) Tj /F1 8.5 Tf ( for an absolute cell reference; ) Tj /F2 8.5 Tf (A1) Tj /F1 8.5 Tf ( is relative.) Tj  T* (\177 Convert data to an Excel Table \(Ctrl + T\) for filters, structured references and easier expansion.) Tj  T* (\177 Use Sort and Filter to explore data; use Remove Duplicates and Text to Columns for cleanup.) Tj  T* (\177 Use Conditional Formatting to highlight patterns and data validation to control entries.) Tj  T* (\177 Create PivotTables to summarize large datasets; add PivotCharts to visualize results.) Tj  T* (\177 Keep one header row, avoid blank rows inside datasets and use consistent data types.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+BT
+/F2-0 50 Tf
+60 TL
+ET
+0.65 0.65 0.65 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+1 0 0 1 -136.125 0 Tm
+(Python Life) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 26 0 R
+/F2 8 0 R
+/F2-0 27 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 5831
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.847059 .882353 .909804 RG
+n 51.02362 39.68504 m 544.252 39.68504 l S
+BT /F1 7 Tf 8.4 TL ET
+.364706 .419608 .458824 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (MS Office Cheat Sheet \177 Quick reference) Tj T* ET
+BT 1 0 0 1 522.069 25.51181 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (4. Microsoft PowerPoint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.0354 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 3 Tm /F1 8.5 Tf 11.5 TL (Create clear, consistent presentations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 727.0354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Useful shortcuts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 527.0354 cm
+q
+1 1 1 rg
+n 0 175.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 156 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 136.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 117 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 97.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 78 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 58.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 39 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 19.5 490.3937 -19.5 re f*
+.090196 .196078 .301961 rg
+n 0 195 490.3937 -19.5 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 6 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Shortcut) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Action) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + M) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Insert a new slide) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + D) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Duplicate selected object or slide) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + G / Ctrl + Shift + G) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Group / ungroup selected objects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 102.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (F5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 102.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Start slide show from the beginning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Shift + F5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Start slide show from the current slide) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Esc) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (End slide show) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (B / W during slide show) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Show a black / white screen; press again to return) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + K) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Insert hyperlink) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Arrow keys) Tj T* ET
+Q
+Q
+q
+1 0 0 1 170.4094 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Move between slides in Normal view or navigate during a show) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .882353 .909804 RG
+.35 w
+n 0 195 m 490.3937 195 l S
+n 0 0 m 490.3937 0 l S
+n 0 0 m 0 195 l S
+n 490.3937 0 m 490.3937 195 l S
+n 0 175.5 m 490.3937 175.5 l S
+n 0 156 m 490.3937 156 l S
+n 0 136.5 m 490.3937 136.5 l S
+n 0 117 m 490.3937 117 l S
+n 0 97.5 m 490.3937 97.5 l S
+n 0 78 m 490.3937 78 l S
+n 0 58.5 m 490.3937 58.5 l S
+n 0 39 m 490.3937 39 l S
+n 0 19.5 m 490.3937 19.5 l S
+n 164.4094 0 m 164.4094 195 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 506.0354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Design and delivery tips) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 419.5354 cm
+q
+BT 1 0 0 1 0 72 Tm 11.5 TL /F1 8.5 Tf .141176 .192157 .231373 rg (\177 Use one clear message per slide and a consistent theme.) Tj  T* (\177 Prefer short phrases over paragraphs; explain details verbally.) Tj  T* (\177 Use readable fonts and strong contrast. Keep body text comfortably large.) Tj  T* (\177 Align objects with guides and use Arrange ) Tj /F3 8.5 Tf 11.5 TL (\256) Tj /F1 8.5 Tf 11.5 TL ( Align and Distribute.) Tj  T* (\177 Use charts for comparisons and diagrams for processes; label visuals clearly.) Tj  T* (\177 Add speaker notes for reminders, not full scripts.) Tj  T* (\177 Run Slide Show ) Tj /F3 8.5 Tf 11.5 TL (\256) Tj /F1 8.5 Tf 11.5 TL ( Rehearse Timings or Presenter View before presenting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 398.5354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Slide show navigation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 369.5354 cm
+q
+BT 1 0 0 1 0 14.5 Tm 11.5 TL /F1 8.5 Tf .141176 .192157 .231373 rg (Next: N, Enter, Space or Right Arrow  ) Tj (  |  ) Tj (  Previous: P, Backspace or Left Arrow) Tj  T* (Go to slide: type the slide number, then press Enter \(during a slide show\).) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+BT
+/F2-0 50 Tf
+60 TL
+ET
+0.65 0.65 0.65 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+1 0 0 1 -136.125 0 Tm
+(Python Life) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/Contents 29 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 30 0 R
+/F2 8 0 R
+/F2-0 31 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Length 5748
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.847059 .882353 .909804 RG
+n 51.02362 39.68504 m 544.252 39.68504 l S
+BT /F1 7 Tf 8.4 TL ET
+.364706 .419608 .458824 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (MS Office Cheat Sheet \177 Quick reference) Tj T* ET
+BT 1 0 0 1 522.069 25.51181 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (5. Microsoft Outlook) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 748.0354 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 3 Tm /F1 8.5 Tf 11.5 TL (Email, calendar and task management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 727.0354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Common shortcuts \(classic Outlook for Windows\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 527.0354 cm
+q
+1 1 1 rg
+n 0 175.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 156 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 136.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 117 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 97.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 78 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 58.5 490.3937 -19.5 re f*
+.956863 .968627 .980392 rg
+n 0 39 490.3937 -19.5 re f*
+1 1 1 rg
+n 0 19.5 490.3937 -19.5 re f*
+.090196 .196078 .301961 rg
+n 0 195 490.3937 -19.5 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 6 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Shortcut) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.252 180.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Action) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + N) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.252 161 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Create a new item \(context-dependent\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + R) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.252 141.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Reply to a message) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Shift + R) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.252 122 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Reply to all) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 102.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + F) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.252 102.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Forward a message) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Enter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.252 83 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Send a message \(may require confirmation/settings\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + 1 / 2 / 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.252 63.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Switch to Mail / Calendar / Contacts \(classic Outlook\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Shift + M) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.252 44 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Create a new email message) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Shift + A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.252 24.5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Create an appointment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Ctrl + Shift + Q) Tj T* ET
+Q
+Q
+q
+1 0 0 1 190.252 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Create a meeting request) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .882353 .909804 RG
+.35 w
+n 0 195 m 490.3937 195 l S
+n 0 0 m 490.3937 0 l S
+n 0 0 m 0 195 l S
+n 490.3937 0 m 490.3937 195 l S
+n 0 175.5 m 490.3937 175.5 l S
+n 0 156 m 490.3937 156 l S
+n 0 136.5 m 490.3937 136.5 l S
+n 0 117 m 490.3937 117 l S
+n 0 97.5 m 490.3937 97.5 l S
+n 0 78 m 490.3937 78 l S
+n 0 58.5 m 490.3937 58.5 l S
+n 0 39 m 490.3937 39 l S
+n 0 19.5 m 490.3937 19.5 l S
+n 184.252 0 m 184.252 195 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 506.0354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Email best practices) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 442.5354 cm
+q
+BT 1 0 0 1 0 49 Tm 11.5 TL /F1 8.5 Tf .141176 .192157 .231373 rg (\177 Use a specific subject line that summarizes the action or topic.) Tj  T* (\177 Put the requested action and deadline near the top of the message.) Tj  T* (\177 Check To, Cc and Bcc before sending; use Reply All only when everyone needs the response.) Tj  T* (\177 Use folders, categories, flags and search to organize messages.) Tj  T* (\177 Avoid sending sensitive information unless the method is approved by your organization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 421.5354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Calendar and productivity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 369.5354 cm
+q
+BT 1 0 0 1 0 37.5 Tm 11.5 TL /F1 8.5 Tf .141176 .192157 .231373 rg (\177 Include a clear meeting title, agenda, date, time zone and location or meeting link.) Tj  T* (\177 Use Scheduling Assistant \(where available\) to compare attendee availability.) Tj  T* (\177 Set reminders for important events and follow-ups.) Tj  T* (\177 Turn emails into tasks or flag messages that need action.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+BT
+/F2-0 50 Tf
+60 TL
+ET
+0.65 0.65 0.65 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+1 0 0 1 -136.125 0 Tm
+(Python Life) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+32 0 obj
+<<
+/Contents 33 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 34 0 R
+/F2 8 0 R
+/F2-0 35 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+33 0 obj
+<<
+/Length 6922
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.847059 .882353 .909804 RG
+n 51.02362 39.68504 m 544.252 39.68504 l S
+BT /F1 7 Tf 8.4 TL ET
+.364706 .419608 .458824 rg
+BT 1 0 0 1 51.02362 25.51181 Tm (MS Office Cheat Sheet \177 Quick reference) Tj T* ET
+BT 1 0 0 1 522.069 25.51181 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (6. Other useful Office tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 745.5354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Microsoft Access \(database basics\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 670.5354 cm
+q
+BT 1 0 0 1 0 60.5 Tm 11.5 TL /F1 8.5 Tf .141176 .192157 .231373 rg (\177 ) Tj /F2 8.5 Tf (Tables:) Tj /F1 8.5 Tf ( Store information in records \(rows\) and fields \(columns\).) Tj  T* (\177 ) Tj /F2 8.5 Tf (Primary key:) Tj /F1 8.5 Tf ( Uniquely identifies each record.) Tj  T* (\177 ) Tj /F2 8.5 Tf (Queries:) Tj /F1 8.5 Tf ( Filter, sort, calculate and combine data from tables.) Tj  T* (\177 ) Tj /F2 8.5 Tf (Forms:) Tj /F1 8.5 Tf ( Provide a user-friendly way to enter and view records.) Tj  T* (\177 ) Tj /F2 8.5 Tf (Reports:) Tj /F1 8.5 Tf ( Format data for printing or sharing.) Tj  T* (\177 ) Tj /F2 8.5 Tf (Relationships:) Tj /F1 8.5 Tf ( Link tables using matching key fields; enforce referential integrity when appropriate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 649.5354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (OneDrive and collaboration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 597.5354 cm
+q
+BT 1 0 0 1 0 37.5 Tm 11.5 TL /F1 8.5 Tf .141176 .192157 .231373 rg (\177 Save files to OneDrive or SharePoint to enable cloud access and collaboration, if permitted.) Tj  T* (\177 Use Share and choose the right permission: view or edit.) Tj  T* (\177 Use version history to review or restore earlier versions where available.) Tj  T* (\177 Avoid creating multiple conflicting copies; collaborate in the same shared file when practical.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 576.5354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (File formats at a glance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 420.0354 cm
+q
+1 1 1 rg
+n 0 129.5 1244.409 -22 re f*
+.956863 .968627 .980392 rg
+n 0 107.5 1244.409 -22 re f*
+1 1 1 rg
+n 0 85.5 1244.409 -22 re f*
+.956863 .968627 .980392 rg
+n 0 63.5 1244.409 -22 re f*
+1 1 1 rg
+n 0 41.5 1244.409 -22 re f*
+.956863 .968627 .980392 rg
+n 0 19.5 1244.409 -19.5 re f*
+.090196 .196078 .301961 rg
+n 0 151.5 1244.409 -22 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 6 137 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Extension) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 137 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Typical use) Tj T* ET
+Q
+Q
+BT 1 0 0 1 496.3937 136.5 Tm  T* ET
+BT 1 0 0 1 873.4016 136.5 Tm  T* ET
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 115 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (.docx) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 115 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Word document) Tj T* ET
+Q
+Q
+BT 1 0 0 1 496.3937 114.5 Tm  T* ET
+BT 1 0 0 1 873.4016 114.5 Tm  T* ET
+q
+1 0 0 1 6 93 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (.xlsx) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 93 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Excel workbook) Tj T* ET
+Q
+Q
+BT 1 0 0 1 496.3937 92.5 Tm  T* ET
+BT 1 0 0 1 873.4016 92.5 Tm  T* ET
+q
+1 0 0 1 6 71 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (.pptx) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 71 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (PowerPoint presentation) Tj T* ET
+Q
+Q
+BT 1 0 0 1 496.3937 70.5 Tm  T* ET
+BT 1 0 0 1 873.4016 70.5 Tm  T* ET
+q
+1 0 0 1 6 49 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (.pdf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 49 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Fixed-layout document for viewing or sharing) Tj T* ET
+Q
+Q
+BT 1 0 0 1 496.3937 48.5 Tm  T* ET
+BT 1 0 0 1 873.4016 48.5 Tm  T* ET
+q
+1 0 0 1 6 27 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (.csv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 27 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Plain-text, comma-separated data; does not preserve workbook formatting or multiple sheets) Tj T* ET
+Q
+Q
+BT 1 0 0 1 496.3937 26.5 Tm  T* ET
+BT 1 0 0 1 873.4016 26.5 Tm  T* ET
+q
+1 0 0 1 6 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (.ppt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (.doc) Tj T* ET
+Q
+Q
+q
+1 0 0 1 496.3937 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (.xls) Tj T* ET
+Q
+Q
+q
+1 0 0 1 873.4016 5 cm
+q
+.141176 .192157 .231373 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.6 Tf 9.5 TL (Older PowerPoint, Word and Excel formats) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.847059 .882353 .909804 RG
+.35 w
+n 0 151.5 m 1244.409 151.5 l S
+n 0 0 m 1244.409 0 l S
+n 0 0 m 0 151.5 l S
+n 1244.409 0 m 1244.409 151.5 l S
+n 0 129.5 m 1244.409 129.5 l S
+n 0 107.5 m 1244.409 107.5 l S
+n 0 85.5 m 1244.409 85.5 l S
+n 0 63.5 m 1244.409 63.5 l S
+n 0 41.5 m 1244.409 41.5 l S
+n 0 19.5 m 1244.409 19.5 l S
+n 113.3858 0 m 113.3858 151.5 l S
+n 490.3937 0 m 490.3937 151.5 l S
+n 867.4016 0 m 867.4016 151.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 399.0354 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Troubleshooting quick checks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 335.5354 cm
+q
+BT 1 0 0 1 0 49 Tm 11.5 TL /F1 8.5 Tf .141176 .192157 .231373 rg (\177 If a file will not open, check the extension and whether the file is damaged or blocked.) Tj  T* (\177 If formatting changes on another device, check fonts, theme fonts and page/layout settings.) Tj  T* (\177 If formulas show as text, check whether the cell is formatted as Text and whether the formula begins with =.) Tj  T* (\177 If a workbook is slow, review volatile formulas, excessive formatting, external links and large ranges.) Tj  T* (\177 If an Office feature is missing, check your app version, license and whether you are using web, mobile or desktop.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 318.3622 cm
+Q
+q
+1 0 0 1 57.02362 297.3622 cm
+q
+.141176 .419608 .619608 rg
+BT 1 0 0 1 0 2.5 Tm /F2 11.5 Tf 14 TL (Remember) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 267.3622 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 15 Tm /F2 9 Tf 12 TL (Office features and shortcuts can differ between Microsoft 365, perpetual Office versions, web apps, Mac and) Tj T* (mobile. When a shortcut does not work, use the app\222s Help search or Ribbon command.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+BT
+/F2-0 50 Tf
+60 TL
+ET
+0.65 0.65 0.65 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+1 0 0 1 -136.125 0 Tm
+(Python Life) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+34 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 36
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000155 00000 n 
+0000000204 00000 n 
+0000000520 00000 n 
+0000003781 00000 n 
+0000003888 00000 n 
+0000003995 00000 n 
+0000004107 00000 n 
+0000004219 00000 n 
+0000004297 00000 n 
+0000004381 00000 n 
+0000004701 00000 n 
+0000011318 00000 n 
+0000011426 00000 n 
+0000011539 00000 n 
+0000011859 00000 n 
+0000018117 00000 n 
+0000018225 00000 n 
+0000018338 00000 n 
+0000018658 00000 n 
+0000030357 00000 n 
+0000030465 00000 n 
+0000030578 00000 n 
+0000030898 00000 n 
+0000036782 00000 n 
+0000036890 00000 n 
+0000037003 00000 n 
+0000037323 00000 n 
+0000043124 00000 n 
+0000043232 00000 n 
+0000043345 00000 n 
+0000043665 00000 n 
+0000050640 00000 n 
+0000050748 00000 n 
+trailer
+<<
+/Size 36
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+50861
+%%EOF
